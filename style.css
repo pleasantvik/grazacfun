@@ -127,7 +127,7 @@ h2 {
 /* GALLERY */
 
 .gallery {
-  margin-bottom: 4rem;
+  /* margin-bottom: 4rem; */
 
   display: grid;
   grid-template-columns: repeat(8, 1fr);
@@ -135,6 +135,9 @@ h2 {
   grid-template-rows: repeat(4, 5vw);
   padding: 1.5rem;
   grid-gap: 1.5rem;
+  margin: 0 auto;
+  max-width: 130rem;
+  padding: 2rem 10%;
 }
 
 .gallery__item {
