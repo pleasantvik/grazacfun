@@ -1,6 +1,8 @@
 # our work
 
-This is a solution to the first project challenge given by [Grazac Academy] (https://www.lola-softwork.netlify.app)
+This is a solution to the first project challenge given by [Grazac Academy] (https://lola-softwork.netlify.app/)
+
+> > > > > > > edit
 
 ### The challenge
 
